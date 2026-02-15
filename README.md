@@ -15,7 +15,8 @@ to understand.
 Funny takeaway: this was roughly a 5-minute change and it made the tool
 significantly easier to understand.
 
-this is the 3d version for playground.tensorflow because a friend had a crashout about how its a fucking terrible visualisation (this version is more goated)
+Quote from a friend:
+> "this is the 3d version for playground.tensorflow because a friend had a crashout about how its a fucking terrible visualisation (this version is more goated)"
 
 **If you'd like to contribute, be sure to review the [contribution guidelines](CONTRIBUTING.md).**
 
