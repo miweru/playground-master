@@ -11,6 +11,8 @@ The main change is the output view: it is rendered as a 3D surface
 (`x = x1`, `y = x2`, `z = target/output`) to make the model behavior easier
 to understand.
 
+this is the 3d version for playground.tensorflow because a friend had a crashout about how its a fucking terrible visualisation (this version is more goated)
+
 **If you'd like to contribute, be sure to review the [contribution guidelines](CONTRIBUTING.md).**
 
 ## Development
