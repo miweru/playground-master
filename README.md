@@ -7,6 +7,7 @@ Your feedback is highly appreciated!
 ## Project note
 
 This project is a simple fork of the TensorFlow Playground visualizer.
+Original project: [tensorflow/playground](https://github.com/tensorflow/playground).
 The main change is the output view: it is rendered as a 3D surface
 (`x = x1`, `y = x2`, `z = target/output`) to make the model behavior easier
 to understand.
